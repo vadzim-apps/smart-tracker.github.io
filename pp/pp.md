@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Terms of Use
-permalink: /toe/
+title: Privacy Policy
+permalink: /pp/
 ---
 
   <!-- Privacy Policy -->
